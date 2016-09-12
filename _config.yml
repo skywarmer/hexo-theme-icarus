@@ -17,16 +17,17 @@ customize:
         enabled: true # Whether to show profile bar
         avatar: css/images/avatar.png
         gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
-        author: PPOffice
-        author_title: Web Developer & Designer
-        location: Harbin, China
-        follow: https://github.com/ppoffice/
+        author: Hongsheng Wang
+        author_title: iOS Developer
+        location: Beijing, China
+        follow: https://github.com/skywarmer
     highlight: monokai
     sidebar: right # sidebar position, options: left, right
     thumbnail: true # enable posts thumbnail, options: true, false
     favicon: # path to favicon
     social_links:
-        github: http://github.com/ppoffice/hexo-theme-icarus
+        github: http://github.com/skywarmer
+        weibo: http://weibo.com/skywarmer
         twitter: /
         facebook: /
         dribbble: /
@@ -73,4 +74,5 @@ miscellaneous:
         twitter_id:
         google_plus:
     links:
+        Github: https://github.com/skywarmer
         Hexo: http://hexo.io
