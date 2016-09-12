@@ -23,14 +23,14 @@ customize:
         follow: https://github.com/skywarmer
     highlight: monokai
     sidebar: right # sidebar position, options: left, right
-    thumbnail: true # enable posts thumbnail, options: true, false
+    thumbnail: false # enable posts thumbnail, options: true, false
     favicon: # path to favicon
     social_links:
         github: http://github.com/skywarmer
         weibo: http://weibo.com/skywarmer
-        twitter: /
-        facebook: /
-        dribbble: /
+        twitter: 
+        facebook: 
+        dribbble: 
         rss: /
     social_link_tooltip: true # enable the social link tooltip, options: true, false
 
